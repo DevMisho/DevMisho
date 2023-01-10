@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
 </div>
 
+<div align="center">
 ## I'm Frondend developer in nex-gen
 
 ### I'm using: 
+</div>
 
 <div align="center">>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
