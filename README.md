@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-### I'm Frondend developer in nex-gen
 
+## I'm Frondend developer in nex-gen
 ### I'm using: 
 </div>
 
